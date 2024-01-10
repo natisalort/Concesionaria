@@ -1,0 +1,179 @@
+
+[
+    {
+    "id":1,
+    "marca":"Ford",
+    "modelo":"Focus",
+    "year":2015,
+    "km":50.000,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":6.000,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (1).jpeg","/img.public/imagenesdeAutos/th (4).jpeg"]
+},
+{
+    "id":2,
+    "marca":"Ford",
+    "modelo":"Gran Focus",
+    "year":2013,
+    "km":195.000,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":5.000,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (2).jpeg","/img.public/imagenesdeAutos/th (4).jpeg"]
+},
+{
+    "id":3,
+    "marca":"Fiat",
+    "modelo":"Cronos",
+    "year":2018,
+    "km":0,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":8900,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (3).jpeg","/img.public/imagenesdeAutos/th (4).jpeg"]
+},
+{
+    "id":4,
+    "marca":"Ford",
+    "modelo":"Focus",
+    "year":2010,
+    "km":0,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":9870,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (4).jpeg"]
+},
+{
+    "id":5,
+    "marca":"Wolkswagen",
+    "modelo":"Suram",
+    "year":2019,
+    "km":200,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":6780,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (5).jpeg","/img.public/imagenesdeAutos/th (4).jpeg"]
+},
+{
+    "id":6,
+    "marca":"Wolkswagen",
+    "modelo":"Amarok",
+    "year":2020,
+    "km":150,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":5550,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (5).jpeg","/img.public/imagenesdeAutos/th (4).jpeg"]
+},
+{
+    "id":7,
+    "marca":"Peugeot",
+    "modelo":"405",
+    "year":2020,
+    "km":150,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":3450,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (6).jpeg","/img.public/imagenesdeAutos/th (5).jpeg"]
+},
+{
+    "id":8,
+    "marca":"Wolkswagen",
+    "modelo":"Suram",
+    "year":2010,
+    "km":200,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":2460,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (8).jpeg","/img.public/imagenesdeAutos/th (8).jpeg", "Descipcion de la imagen"]
+},
+{
+    "id":9,
+    "marca":"Renault",
+    "modelo":"Megane",
+    "year":2010,
+    "km":250,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":5670,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (1).jpeg","/img.public/imagenesdeAutos/th (5).jpeg","/img.public/imagenesdeAutos/th (1).jpeg"]
+},
+{
+    "id":10,
+    "marca":"Wolkswagen",
+    "modelo":"Vento",
+    "year":2009,
+    "km":250,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":4877,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (2).jpeg","/img.public/imagenesdeAutos/th (5).jpeg"]
+},
+{
+    "id":11,
+    "marca":"Wolkswagen",
+    "modelo":"Golf",
+    "year":2004,
+    "km":300,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":8765,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (3).jpeg","/img.public/imagenesdeAutos/th (5).jpeg","/img.public/imagenesdeAutos/th (3).jpeg"]
+},
+{
+    "id":12,
+    "marca":"Chevrolet",
+    "modelo":"Vento 2.0",
+    "year":2009,
+    "km":180.000,
+    "detalles":"Full",
+    "precio":6.400,
+    "novedad":true,
+    "img":["/img.public/imagenesdeAutos/th (4).jpeg","/img.public/imagenesdeAutos/th (5).jpeg"]
+},
+{
+    "id":13,
+    "marca":"Chevrolet",
+    "modelo":"Meriva GSL 1.8",
+    "year":2011,
+    "km":150.000,
+    "detalles":"Aire, direccion, llantas de aleacion ",
+    "precio":4.200,
+    "novedad":true,
+    "img":["/img.public/imagenesdeAutos/th (5).jpeg","/img.public/imagenesdeAutos/th (3).jpeg"]
+},
+{
+    "id":14,
+    "marca":"Fiat",
+    "modelo":"Ap",
+    "year":2016,
+    "km":50.000,
+    "detalles":"Aire, direccion,llantas de aleacion",
+    "precio":7650,
+    "novedad":true,
+    "img":["/img.public/imagenesdeAutos/th (6).jpeg","/img.public/imagenesdeAutos/th (3).jpeg"]
+},
+{
+    "id":15,
+    "marca":"Fiat",
+    "modelo":"Cronos",
+    "year":2015,
+    "km":40.000,
+    "detalles":"Aire, direccion",
+    "precio":7.500,
+    "novedad":true,
+    "img":["/img.public/imagenesdeAutos/th (7).jpeg","/img.public/imagenesdeAutos/th (3).jpeg"]
+},
+{
+    "id":16,
+    "marca":"Wolkswagen",
+    "modelo":"Suram",
+    "year":2020,
+    "km":3220,
+    "detalles":"Aire, direccion",
+    "precio":0,
+    "novedad":false,
+    "img":["/img.public/imagenesdeAutos/th (8).jpeg","/img.public/imagenesdeAutos/th (7).jpeg"]
+}
+]

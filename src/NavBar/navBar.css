@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+}
+
+.container-nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 70px;
+  background-color: #260d33;
+
+}
+
+.filtros {
+  display: flex;
+  justify-content: flex-end;
+  width: 75%;
+}
+
+.selectedName {
+  width: 180px;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+.selectedName :hover {
+  cursor: pointer;
+
+}
+
+.selectedYear :hover {
+  cursor: pointer;
+}
+
+.selectedYear {
+  width: 90px;
+  margin-left: 5px;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+.name {
+  text-decoration: none;
+  font-size: 20px;
+  display: block;
+  background-color: #260d33;
+  color: #f0eef2;
+  padding: 3px 5px;
+  border-radius: 10px;
+  box-shadow: 0px 20px 19px rgba(112, 110, 110, 0.7);
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.loock {
+  background-color: #8fc1ca;
+  margin-left: 4px;
+  padding: 3px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.contenedor-menu {
+  position: fixed;
+  top: 0;
+  left: -100%;
+  height: 300px;
+  width: 200px;
+  transition: left 0.3s ease;
+}
+
+.contenedor-menu.activo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  position: absolute;
+  z-index: 10;
+  max-height: 350px;
+  padding: 0px;
+  background: linear-gradient(#157a8c, #106b87, #b3aca4);
+  margin-top: 70px;
+  border-radius: 0px 45px 45px 0px;
+  border: solid 4px black;
+  box-shadow: 25px 35px 55px rgba(112, 110, 110, 0.9);
+  color: aliceblue;
+}
+
+.menu {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu ul {
+  width: 80%;
+  height: auto;
+}
+
+.menu ul li {
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+
+.menu ul li button {
+  width: 100%;
+}
+
+.menu ul li button:hover {
+  background-color: #003f69;
+  transform: translateY(-3%);
+}
+
+.icono-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  margin-left: 15px;
+  cursor: pointer;
+  transition: all 400ms ease;
+  border-radius: 20px;
+  background-color: #f0eef2;
+}
+
+.icono-menu:hover {
+  background-color: #b3aca4;
+  transform: translateY(-3%);
+}

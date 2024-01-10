@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+.info {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background: linear-gradient(#000000, white);
+    box-shadow: 0px 10px 50px;
+}
+
+.car {
+    width: 50%;
+    height: 350px;
+    padding: 25px;
+    border: solid 3px #050505;
+    text-align: center;
+    transition: all 400ms ease;
+    background: linear-gradient(#4f4a4a, white);
+}
+
+.car img {
+    border-radius: 20px;
+}
+
+@media screen and (min-width:1400px) {
+    .container-carousel {
+        width: 80%;
+        margin-inline: auto;
+    }
+
+    .slider-container {
+        background: linear-gradient(black, rgb(176, 167, 167))
+    }
+}
